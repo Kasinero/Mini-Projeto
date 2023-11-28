@@ -1,2 +1,2 @@
-# Mini-Projeto
-Mini Projeto de programacao da facul
+# Mini-Projetos
+Mini Projetos de programacao da facul
